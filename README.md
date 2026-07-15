@@ -14,7 +14,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-udipmaharjan.com.np-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://udipmaharjan.com.np/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-udip--maharjan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udip-maharjan-92b97a317/)
 [![Instagram](https://img.shields.io/badge/Instagram-mhrzn.udip.7-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mhrzn.udip.7/)
-[![Facebook](https://img.shields.io/badge/Facebook-udip.maharjan.98-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/udip.maharjan.98)
 
 <br>
 

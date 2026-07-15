@@ -58,7 +58,7 @@ ROWS = [
     ("kv", "Tools", "Git, Power BI, Jupyter, VS Code"),
     ("gap",),
     ("sec", "Highlights"),
-    ("bul", "AWS Academy: Data Engineering & ML Foundations"),
+    ("bul", "Built Lekhantra - AI-powered study assistant"),
     ("bul", "Built DriveKTM - full-stack vehicle rental system"),
     ("bul", "Built GitGarden - interactive Git learning platform"),
 ]
